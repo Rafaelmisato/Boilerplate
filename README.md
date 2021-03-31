@@ -36,6 +36,6 @@ yarn
 
 ## Styles
 
-Document.tsx - configure head aplication
-global.ts - configure global styles
-theme.ts - configure colors, and global theme
+- Document.tsx - configure head aplication
+- global.ts - configure global styles
+- theme.ts - configure colors, and global theme
